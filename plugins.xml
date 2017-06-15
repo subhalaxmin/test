@@ -10,7 +10,7 @@ plugins>
 <about></about>
 <version>0.1.0</version>
 <qgis_minimum_version>1.8.0</qgis_minimum_version>
-<qgis_maximum_version>2.9.9</qgis_maximum_version>
+<qgis_maximum_version>2.15.15</qgis_maximum_version>
 <homepage>
 <![CDATA[https://github.com/GeospatialPython/Learn]]>
 </homepage>
